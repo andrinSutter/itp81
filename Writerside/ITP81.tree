@@ -4,10 +4,16 @@
 
 <instance-profile id="ITP81"
                  name="ITP81"
-                 start-page="Itp81base.md">
+                 start-page="Überblick.topic">
 
-    <toc-element topic="Itp81base.md"/>
-    <toc-element topic="cherwell.md"/>
-    <toc-element topic="starter.md"/>
+    <toc-element topic="Überblick.topic"/>
+    <toc-element topic="cherwell.md">
+    </toc-element>
     <toc-element topic="Clippy.md"/>
+    <toc-element topic="InterkulturelleKompetenzIndien.md">
+        <toc-element topic="Kastensystem.md"/>
+        <toc-element topic="Wesenzüge-und-Werte.md"/>
+        <toc-element topic="Indische-Küche.md"/>
+        <toc-element topic="Verhandlungen-Meetings.md"/>
+    </toc-element>
 </instance-profile>

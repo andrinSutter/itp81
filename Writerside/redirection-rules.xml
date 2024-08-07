@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="15b1f40f">
+        <description>Created after removal of "Test" from ITP81</description>
+        <accepts>Test.html</accepts>
+    </rule>
+    <rule id="4e9b9665">
+        <description>Created after removal of "ITP81Base" from ITP81</description>
+        <accepts>Itp81base.html</accepts>
+    </rule>
+    <rule id="215af292">
+        <description>Created after removal of "Starter" from ITP81</description>
+        <accepts>starter.html</accepts>
+    </rule>
+</rules>
