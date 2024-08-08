@@ -18,4 +18,24 @@
         <toc-element topic="Verhandlungen-Meetings.md"/>
         <toc-element topic="Do-s-and-Dont-s.md"/>
     </toc-element>
+    <toc-element topic="ITIL.md">
+        <toc-element topic="Funktionen-Rollen-und-Prozesse.md">
+            <toc-element topic="Funktionen-Rollen-Prozesse.md">
+                <toc-element topic="Funktionen.md"/>
+                <toc-element topic="Rollen.md">
+                    <toc-element topic="Rollen-definieren.md"/>
+                </toc-element>
+                <toc-element topic="Prozess.md"/>
+            </toc-element>
+            <toc-element topic="Service-Management-und-Services.md"/>
+            <toc-element topic="RACI-Matric.md"/>
+            <toc-element topic="Assets.md">
+                <toc-element topic="Ressourcen.md"/>
+                <toc-element topic="Fähigkeiten.md"/>
+            </toc-element>
+        </toc-element>
+        <toc-element topic="IT-Service-Lifecycle.md">
+            <toc-element topic="Service-Strategie.md"/>
+        </toc-element>
+    </toc-element>
 </instance-profile>

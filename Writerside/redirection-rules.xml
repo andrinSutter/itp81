@@ -18,4 +18,12 @@
         <description>Created after removal of "Starter" from ITP81</description>
         <accepts>starter.html</accepts>
     </rule>
+    <rule id="41664fe">
+        <description>Created after removal of "Rollen definieren" from ITP81</description>
+        <accepts>Rollen-definieren.html</accepts>
+    </rule>
+    <rule id="2e33c13a">
+        <description>Created after removal of "Empty MD Topic" from ITP81</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
 </rules>

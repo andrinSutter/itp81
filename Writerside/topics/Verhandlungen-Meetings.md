@@ -1,6 +1,6 @@
 # Verhandlungen/Meetings
 
-Inder bereiten sich serh gut auf Gespräche und Sitzungen vor. Sie recherchieren über den Gegenüber, sammeln alle Informationen und entwickeln Verhandlungsstile.
+Inder bereiten sich sehr gut auf Gespräche und Sitzungen vor. Sie recherchieren über dem Gegenüber, sammeln alle Informationen und entwickeln Verhandlungsstile.
 
 ## Etikette
 
@@ -21,3 +21,4 @@ Inder bereiten sich serh gut auf Gespräche und Sitzungen vor. Sie recherchieren
 - Wer auf ein Essen einlädt, der zahlt
 - Bei einem Essen Zuhause sollte man zuerst mit persönlichen Gesprächen beginnen und erst beim Hauptgang Verhandlungen aufbringen. Aber nicht zu lange warten, weil man nach dem Essen gehen sollte
 - Nicht über den Kulturschock sprechen/erwähnen
+
