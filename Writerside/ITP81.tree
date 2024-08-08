@@ -35,7 +35,15 @@
             </toc-element>
         </toc-element>
         <toc-element topic="IT-Service-Lifecycle.md">
-            <toc-element topic="Service-Strategie.md"/>
+            <toc-element topic="Service-Strategie.md">
+                <toc-element topic="Service-Provider.md"/>
+                <toc-element topic="4Ps.md">
+                    <toc-element topic="Perspektive.md"/>
+                    <toc-element topic="Position.md"/>
+                    <toc-element topic="Plan.md"/>
+                    <toc-element topic="Muster.md"/>
+                </toc-element>
+            </toc-element>
         </toc-element>
     </toc-element>
 </instance-profile>

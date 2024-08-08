@@ -1,5 +1,7 @@
 # Service Strategie
 
+## Service Strategie Richtlinien
+
 Service Strategy Richtlinie beinhaltet folgende Fragen:
 
 - Welche Services sollen wir anbieten und wem?
