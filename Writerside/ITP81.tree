@@ -44,6 +44,9 @@
                     <toc-element topic="Plan.md"/>
                 </toc-element>
             </toc-element>
+            <toc-element topic="Service-Transition.md">
+                <toc-element topic="7-Rs-des-Change-Managements.md"/>
+            </toc-element>
         </toc-element>
     </toc-element>
     <toc-element topic="Ivanti.md">
