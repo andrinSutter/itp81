@@ -27,6 +27,8 @@ Ein "Ergebnis" umfasst beabsichtigte und tatsächliche Resultate; Service-Leistu
 - **Utility**: Zweckdienlichkeit des Services zur Zielerreichung.
 - **Warranty**: Verlässlichkeit der Nutzung im vereinbarten Rahmen.
 
+![utility-warranty.png](utility-warranty.png)
+
 ### Vergleich und Auswahl
 
 #### Unterschiede zwischen Anbietern
